@@ -1,0 +1,36 @@
+h1 {
+  color: red;
+}
+
+li {
+  border: 1px solid black;
+}
+
+.div {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  color: cornsilk;
+}
+
+span {
+  color: crimson;
+}
+
+h2 {
+  background-color: darkgreen;
+  color: darkgrey;
+}
+
+.h2 {
+  height: 100px;
+  align-content: center;
+  background-color: darkgreen;
+  color: darkgrey;
+  height: 7em;
+  line-height: 7em;
+}
+
+img {
+  width: 150px;
+}
