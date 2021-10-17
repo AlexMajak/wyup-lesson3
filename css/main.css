@@ -1,3 +1,19 @@
+body {
+  /* font-family: "Courier New", Courier, monospace; */
+  font-family: "Roboto", sans-serif;
+}
+
+div,
+p,
+input,
+form,
+span,
+a,
+ul,
+li {
+  box-sizing: border-box;
+}
+
 h1 {
   color: red;
 }
@@ -6,9 +22,9 @@ li {
   border: 1px solid black;
 }
 
-.div {
+.pclass {
   width: 100px;
-  height: 100px;
+  /* height: 100px; */
   background-color: blue;
   color: cornsilk;
 }
@@ -18,15 +34,13 @@ span {
 }
 
 h2 {
-  background-color: darkgreen;
-  color: darkgrey;
+  background: green;
+  color: #fff;
 }
 
 .h2 {
-  height: 100px;
+  margin: 40px 0px;
   align-content: center;
-  background-color: darkgreen;
-  color: darkgrey;
   height: 7em;
   line-height: 7em;
 }
